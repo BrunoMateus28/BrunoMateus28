@@ -13,7 +13,6 @@ Olá! Meu nome é Bruno, sou um entusiasta da tecnologia da UERJ apaixonado por 
 
 ## Estatísticas do GitHub
 [![](https://github-readme-stats.vercel.app/api?username=BrunoMateus28&show_icons=true&theme=dark&locale=pt-br)](https://github.com/BrunoMateus28)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMateus28&layout=donut-vertical)](https://github.com/BrunoMateus28/github-readme-stats)
 
 ## Entre em Contato
 - LinkedIn: [brunomateusgon](https://www.linkedin.com/in/brunomateusgon/)
