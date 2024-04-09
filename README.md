@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub! 👋
 
-<!--
-**BrunoMateus28/BrunoMateus28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Olá! Meu nome é Bruno, sou um entusiasta da tecnologia da UERJ apaixonado por desenvolvimento de software. Estou sempre buscando aprender coisas novas e contribuir para projetos interessantes.
 
-Here are some ideas to get you started:
+- 🌱 Sou atualmente interessado em Desenvolvimento, Ciência de Dados e Segurança da Informação.
+- 💼 Estou procurando por oportunidades de trabalho como Estagiário/Junior em Desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens e Ferramentas
+- Linguagens de Programação: Python, C, C#, Java, JavaScript, TypeScript
+- Ferramentas de Desenvolvimento: VSCode
+
+
+## Estatísticas do GitHub
+[![](https://github-readme-stats.vercel.app/api?username=seuBrunoMateus28&show_icons=true&theme=radical)](https://github.com/seuusername)
+
+## Entre em Contato
+- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/brunomateusgon/)
+- Email: brunogonçalves43@gmail.com
+
+Fique à vontade para explorar meus repositórios e entrar em contato comigo! Adoro colaborar em projetos interessantes e conhecer pessoas novas no mundo da tecnologia.
