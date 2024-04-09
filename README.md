@@ -16,6 +16,6 @@ Olá! Meu nome é Bruno, sou um entusiasta da tecnologia da UERJ apaixonado por 
 
 ## Entre em Contato
 - LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/brunomateusgon/)
-- Email: brunogonçalves43@gmail.com
+- Email: brunogoncalves43@gmail.com
 
 Fique à vontade para explorar meus repositórios e entrar em contato comigo! Adoro colaborar em projetos interessantes e conhecer pessoas novas no mundo da tecnologia.
