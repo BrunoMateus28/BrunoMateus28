@@ -15,7 +15,7 @@ Olá! Meu nome é Bruno, sou um entusiasta da tecnologia da UERJ apaixonado por 
 [![](https://github-readme-stats.vercel.app/api?username=BrunoMateus28&show_icons=true&theme=radical)](https://github.com/seuusername)
 
 ## Entre em Contato
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/brunomateusgon/)
+- LinkedIn: [brunomateusgon](https://www.linkedin.com/in/brunomateusgon/)
 - Email: brunogoncalves43@gmail.com
 
 Fique à vontade para explorar meus repositórios e entrar em contato comigo! Adoro colaborar em projetos interessantes e conhecer pessoas novas no mundo da tecnologia.
