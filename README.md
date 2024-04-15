@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2019<br>📚 Estou atualmente interessado em Desenvolvimento, Ciência de Dados e Segurança da Informação<br>🎯 Objetivos: Me especializar em uma das minhas áreas de interesse<br>🎲 Fun fact: Sei montar o Cubo Mágico</p>
+<p align="left">👨‍💻  Criando bugs desde 2019<br>📚 Estou atualmente interessado em Desenvolvimento, Ciência de Dados e Segurança da Informação<br>🎯 Objetivos: Me especializar em uma das minhas áreas de interesse<br>🎲 Fun fact: Sei montar o Cubo Mágico</p>
 
 ###
 
