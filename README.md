@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Bruno Mateus. Sou Desenvolvedor e Analista de Dados na Quantum Finance, e estudante de Ciência de Dados no IME/UERJ. Sou apaixonado por otimizar processos, criar soluções eficientes e aprender novas tecnologias.</p>
+<p align="left">Olá! Meu nome é Bruno Mateus. Sou Desenvolvedor e Analista de Dados, e estudante de Ciência de Dados no IME/UERJ. Sou apaixonado por otimizar processos, criar soluções eficientes e aprender novas tecnologias.</p>
 
 ###
 
