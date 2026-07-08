@@ -67,10 +67,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoMateus28&show_icons=true&theme=dark&locale=pt-br&layout=compact&card_width=320&order1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoMateus28&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=BrunoMateus28&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoMateus28&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoMateus28&show_icons=true&theme=dark&locale=pt-br&layout=compact" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMateus28&layout=compact&langs_count=5&theme=dark" height="150" alt="top-langs" />
+  <img src="https://streak-stats.demolab.com/?user=BrunoMateus28&theme=dark" height="150" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoMateus28&theme=github-dark&area=true" height="300" alt="activity-graph" />
 </div>
 
 ###
