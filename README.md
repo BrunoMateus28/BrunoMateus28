@@ -15,7 +15,7 @@
 ###
 
 <p align="left">
-  👨‍💻 Criando bugs (e consertando pipelines de dados) desde 2019<br>
+  👨‍💻 Criando bugs (e consertando) desde 2019<br>
   📚 Atualmente focado em Ciência de Dados, Engenharia de Dados (Airflow, Python, SQL) e Automações<br>
   🎯 Objetivos: Concluir meu TCC e me aprofundar ainda mais em arquitetura e gestão de banco de dados<br>
   🎲 Fun facts: Sei montar o Cubo Mágico, sou mestre de campanhas de RPG em Forgotten Realms e faço um excelente café na V60
