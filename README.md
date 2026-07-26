@@ -71,8 +71,8 @@
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoMateus28&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMateus28&layout=compact&langs_count=5&theme=dark" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BrunoMateus28&theme=radical&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BrunoMateus28&theme=radical&include_all_commits=true&count_private=true" height="150" alt="Linguagens mais usadas" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=BrunoMateus28&theme=dark" height="150" alt="Ofensiva no GitHub" />
   <br><br>
