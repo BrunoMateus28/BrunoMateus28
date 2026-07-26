@@ -67,7 +67,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoMateus28&show_icons=true&theme=dark&locale=pt-br&layout=compact" height="150" alt="stats" />
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BrunoMateus28)](https://github.com/stats-organization/github-stats-extended)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMateus28&layout=compact&langs_count=5&theme=dark" height="150" alt="top-langs" />
   <img src="https://streak-stats.demolab.com/?user=BrunoMateus28&theme=dark" height="150" alt="streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoMateus28&theme=github-dark&area=true" height="300" alt="activity-graph" />
