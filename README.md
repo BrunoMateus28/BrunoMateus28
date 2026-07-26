@@ -60,17 +60,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="godot logo" />
 </div>
 
 ###
 
 <br clear="both">
 
+<h2 align="center">Estatísticas</h2>
+
 <div align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BrunoMateus28)](https://github.com/stats-organization/github-stats-extended)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMateus28&layout=compact&langs_count=5&theme=dark" height="150" alt="top-langs" />
-  <img src="https://streak-stats.demolab.com/?user=BrunoMateus28&theme=dark" height="150" alt="streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoMateus28&theme=github-dark&area=true" height="300" alt="activity-graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoMateus28&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMateus28&layout=compact&langs_count=5&theme=dark" height="150" alt="Linguagens mais usadas" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=BrunoMateus28&theme=dark" height="150" alt="Ofensiva no GitHub" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoMateus28&theme=github-dark&area=true" width="100%" alt="Gráfico de Atividade" />
 </div>
 
 ###
